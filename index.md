@@ -7,7 +7,7 @@
 * **Medios de comunicación:** Pueden influir en la percepción pública de Uber y sus acciones.
 * **Equipo de Desarrollo de Software:** Responsable de desarrollar y mantener la plataforma de Uber.
 * **Equipo de Soporte al Cliente:** Responsable de brindar asistencia a los usuarios de Uber.
-* **Inversionistas y Accionistas:** Apoyan el crecimiento de Uber y esperan obtener ganancias de sus inversiones.\
+* **Inversionistas y Accionistas:** Apoyan el crecimiento de Uber y esperan obtener ganancias de sus inversiones.
 
 
 ## Modelo de Negocio de Uber:
@@ -113,22 +113,16 @@ Siempre hay un carro disponible, el precio varía según la demanda y el servici
 
 # Especificación De Requerimientos
 
-#Test de tabla BORRAR LUEGO
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Requerimientos Funcionales
 
-### There's a horizontal rule below this.
+| RQF-001         | Asistente de Idioma     |
+|:----------------|:------------------------|
+| **Importancia** | Alta | 
+| **Descripción** | Permitir en los viajes internacionales un asistente de idioma en tiempo real para la comunicación entre conductores y pasajeros  | 
 
 * * *
 
-
-#BORRAR LUEGO
 
 
 
