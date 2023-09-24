@@ -9,4 +9,5 @@ Las técnicas a utilizar deben ser:
 * Documentación de requerimientos… realizar un documento con los requerimientos funcionales y no funcionales de la aplicación.
 * Realizar una validación con el equipo de desarrollo de los requerimientos funcionales y no funcionales (refinar los definidos en el paso anterior).
 
-* https://juaniidx.github.io/Taller3/
+
+[Link a la pagina](https://juaniidx.github.io/Taller3/)
