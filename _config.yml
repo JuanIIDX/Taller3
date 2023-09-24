@@ -1,8 +1,10 @@
-title: Taller3
-description: _
+title: Taller 3
+description: {{ content }}
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+content: README.md
+
 
 site:
   name: Taller3
