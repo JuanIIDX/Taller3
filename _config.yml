@@ -3,8 +3,8 @@ description: _
 theme: jekyll-theme-cayman
 
 site:
-  name: Mi sitio web
-  description: Este es mi sitio web
+  name: Taller3
+  description: Taller 3 de Software 2
   version: 1.0.0
 
 pages:
