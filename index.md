@@ -119,47 +119,49 @@ Siempre hay un carro disponible, el precio varía según la demanda y el servici
 | RQF-001         | Asistente de Idioma     |
 |:----------------|:------------------------|
 | **Importancia** | Alta | 
-| **Descripción** | Permitir en los viajes internacionales un asistente de idioma en tiempo real para la comunicación entre conductores y pasajeros  | 
+| **Descripción** | Permitir en los viajes internacionales un asistente de idioma en tiempo real para la comunicación entre conductores y pasajeros.  | 
+
+* * *
+
+| RQF-002         | Integracion pago con huella digital     |
+|:----------------|:------------------------|
+| **Importancia** | Alta | 
+| **Descripción** | Integrar la capacidad de realizar pagos utilizando la autenticación de huella digital como una opción adicional de pago.  | 
 
 * * *
 
 
+| RQF-003         | Seguimiento de vehículos     |
+|:----------------|:------------------------|
+| **Importancia** | Alta | 
+| **Descripción** | Los conductores deben poder ver la ubicación del pasajero y la dirección del destino en la aplicación.  | 
+
+* * *
+
+
+| RQF-004         | Evaluación de Background Check sobre actores del servicio     |
+|:----------------|:------------------------|
+| **Importancia** | Alta | 
+| **Descripción** | El sistema debe hacer un chequeo de antecedentes a los actores del sistema.  | 
+
+* * *
 
 
 ## Requerimientos Funcionales
-| RQF-001 | Asistente de Idioma |
-|:---------|:-------|
-| **Importancia** | Alta |
-| **Descripción** | Permitir en los viajes internacionales un asistente de idioma en tiempo real para la comunicación entre conductores y pasajeros |
 
----
-| RQF-002 | Integracion pago con huella digital |
-|---|---|
-| **Importancia** | Alta |
-| **Descripción** | Integrar la capacidad de realizar pagos utilizando la autenticación de huella digital como una opción adicional de pago. |
----
-| RQF-003 | Seguimiento de vehículos |
-|---|---|
-| **Importancia** | Alta |
-| **Descripción** | Los conductores deben poder ver la ubicación del pasajero y la dirección del destino en la aplicación |
----
-| RQF-004 | Evaluación de Background Check sobre actores del servicio |
-|---|---|
-| **Importancia** | Alta |
-| **Descripción** | El sistema debe hacer un chequeo de antecedentes a los actores del sistema|
+| RQN-001         | Seguimiento de vehículos     |
+|:----------------|:------------------------|
+| **Importancia** | Alta | 
+| **Descripción** | Los pasajeros deben poder rastrear la ubicación en tiempo real del conductor asignado.  |
 
-## Requerimientos Funcionales
-| RQN-001 | Seguimiento de vehículos |
-|---|---|
-| **Importancia** | Alta |
-| **Descripción** | Los pasajeros deben poder rastrear la ubicación en tiempo real del conductor asignado. |
+* * *
 
----
-| RQN-003 | Evaluación de Background Check sobre actores del servicio |
-|---|---|
-| **Importancia** | Alta |
-| **Descripción** | El sistema debe hacer un chequeo continuo de antecedentes sobre todos los actores activos de la plataforma, haciendo visible un score de confiabilidad |
----
+| RQN-003         | Evaluación de Background Check sobre actores del servicio     |
+|:----------------|:------------------------|
+| **Importancia** | Alta | 
+| **Descripción** | El sistema debe hacer un chequeo continuo de antecedentes sobre todos los actores activos de la plataforma, haciendo visible un score de confiabilidad  |
+
+* * *
 
 ## Realizar una validación con el equipo de desarrollo de los requerimientos funcionales y no funcionales (refinar los definidos en el paso anterior).
 
