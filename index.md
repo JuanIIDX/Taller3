@@ -40,7 +40,7 @@ A pesar de los desafíos, Uber sigue viendo oportunidades en la expansión de su
 
 
 
-# Encuesta/ cuestionario(Dejarlo planteado como si se fuese a aplicar con los stakeholders).
+# Encuesta/Cuestionario
 
 **Problema 1: Regulación y Legalidad**
 
