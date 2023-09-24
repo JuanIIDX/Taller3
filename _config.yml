@@ -1,5 +1,5 @@
 title: Taller 3
-description: {% include README.md %}
+description: En grupos van a elegir una de las aplicaciones que se muestra debajo, vamos a realizar para ellas el proceso de análisis de requerimientos funcionales y no funcionales. Para el procesos de elicitación debe realizar el entendimiento de los stakeholders, la lógica y los objetivos del negocio. Estos deben quedar en el entregable. Omita la planeación de la elicitación en el entregable.
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
