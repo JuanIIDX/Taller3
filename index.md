@@ -99,17 +99,20 @@ A pesar de los desafíos, Uber sigue viendo oportunidades en la expansión de su
 
 **Luis Fernando Gonzalez Zambrano:**
  La aplicación es fácil de usar y tiene buena comunicación con el conductor.
+ 
 **Sebastian Galvez Yepes:**
 Siempre hay un carro disponible, el precio varía según la demanda y el servicio, y Uber siempre escoge la ruta más rápida.
 
 ## Comentarios de conductores
 
 **Juan Sebastian Henao:**
-     Quiere poder seleccionar un área específica para trabajar, ver un "score de confianza" de los pasajeros y poder calificar a los pasajeros con estrellas.
+Quiere poder seleccionar un área específica para trabajar, ver un "score de confianza" de los pasajeros y poder calificar a los pasajeros con estrellas.
+
 **Jhony Alejandro Perez:**
- Cree que debería haber más control sobre los conductores y que las tarifas deberían estar reguladas.
+Cree que debería haber más control sobre los conductores y que las tarifas deberían estar reguladas.
+
 **Juan Pablo Pulgarin:**
-  La aplicación se bloquea o se retrasa, no siempre muestra la ubicación exacta del pasajero y no siempre muestra la ruta estimada con precisión.
+La aplicación se bloquea o se retrasa, no siempre muestra la ubicación exacta del pasajero y no siempre muestra la ruta estimada con precisión.
 
 # Especificación De Requerimientos
 
