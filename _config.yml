@@ -1,3 +1,14 @@
 title: Taller3
 description: _
 theme: jekyll-theme-cayman
+
+site:
+  name: Mi sitio web
+  description: Este es mi sitio web
+  version: 1.0.0
+
+pages:
+  - path: /
+    title: Página principal
+    source: docs/index.md
+    permalink: /
