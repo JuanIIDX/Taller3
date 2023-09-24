@@ -1,10 +1,10 @@
 ## Taller desarrollado por:
 
-#### Juan Pablo Pulgarin
-#### Juan Sebastian Henao
-#### Luis Fernando Gonzalez
-#### Sebastian Galvez Yepes
-#### Jhony Alejandro Perez
+* **Juan Pablo Pulgarin**
+* **Juan Sebastian Henao**
+* **Luis Fernando Gonzalez**
+* **Sebastian Galvez Yepes**
+* **Jhony Alejandro Perez**
 
 
 ## Identificación de stakeholders
