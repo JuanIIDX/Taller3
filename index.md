@@ -115,7 +115,7 @@ Siempre hay un carro disponible, el precio varía según la demanda y el servici
 
 ## Requerimientos Funcionales
 | RQF-001 | Asistente de Idioma |
-|---|---|
+|:---------|:-------|
 | **Importancia** | Alta |
 | **Descripción** | Permitir en los viajes internacionales un asistente de idioma en tiempo real para la comunicación entre conductores y pasajeros |
 
